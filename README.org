@@ -1,0 +1,9 @@
+* alexandria
+
+Alexandria is a collection of portable public domain utilities.
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/alexandria/alexandria.git |
+| commit  | db1288fb                                                     |
+| systems | alexandria                                                   |
+|---------+--------------------------------------------------------------|
