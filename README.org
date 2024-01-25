@@ -5,6 +5,6 @@ Alexandria is a collection of portable public domain utilities.
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/alexandria/alexandria.git |
-| commit  | 009b7e5                                                      |
+| commit  | 8514d8e                                                      |
 | systems | alexandria                                                   |
 |---------+--------------------------------------------------------------|
